@@ -32,5 +32,13 @@ Sumério é o idioma mais antigo conhecido, ganhando do Egito antigo, possuindo 
 Por volta da época de Cristo, todo o conhecimento da língua desapareceu junto com o da escrita cuneiforme, e nos séculos seguintes até mesmo o nome sumério desapareceu da memória.
 
 Ao contrário da Assíria, Babilônia e Egito, cujas histórias são amplamente documentadas em fontes bíblias clássicas, não havia nada a ser encontrado em fontes não mesopotâmicas. A decifração da escrita cuneiforme foi alcançada nas primeiras décadas do século 19, três línguas escritas em cuneiforme foram descobertas: ~babilônico semítico~, ~persa indo-europeu~ e o ~elamita~ de afiliação desconhecida. Somente depois que os textos escritos em babilônico se tornaram mais compreendidos, os estudiosos se deram conta da existência de textos em uma língua diferente.
+** Fonemas
+Os sons distintivos (fonemas) do sumério consistiam em quatro vogais, a, i, e, u e 16 consoantes, b, d, g, ŋ, h, k, l, m, n, p, r, s, ś, š, t, z. No sumério clássico, o contraste entre as consoantes b, d, g, z e p, t, k, s não era entre consoantes sonoras (com cordas vocais vibrantes) e surdas (sem cordas vocais vibrantes), mas entre consoantes que eram indiferentes quanto à voz e aquelas que eram aspiradas (pronunciadas com um sopro de ar audível acompanhante). As semivogais y e w funcionaram como deslizamentos vocálicos.
+
+No substantivo, gênero não foi expresso. O número plural foi indicado pelos sufixos -me (ou -me + esh), -hia e -ene, ou por reduplicação, como em kur + kur "montanhas". As formas relacionais do substantivo, correspondendo aproximadamente aos casos da declinação latina, incluem: -e para o sujeito (nominativo), -a(k) "de" (genitivo), -ra e -sh(e) "para", "para" (dativo), -a "in" (locativo), -ta "de" (ablativo), -da "com" (comprometetivo).
 * Idiomas
+Muitos dialetos e variações do sumério são conhecidos, entre eles o =eme-gir= (idioma oficial) e o eme-sal (usado em composições de hinos).
 ** Eme-ĝir (𒅴𒂠)
+** Akkadian
+** Emesal
+** Archaic Sumerian
