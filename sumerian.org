@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       0e05ea28-b6ac-4de0-8cc8-2487d91e97d4
+:END:
+#+title: Sumerian: sumerian
+#+filetags: :sumerian:
+#+author: Rahvax
+#+date: [2025-07-15 Tue 14:17]
+
+* Index Of
+- [[Sobre]]
+- idiomas
+  - [[Eme-ĝir (𒅴𒂠)]]
+  - [[Akkadian][Akkadian]]
+- povos
+- alfabetos
+
+* Sobre
+O sumério é uma língua muito antiga encontrada na mesopotânia, 
+- fonte: [[https://www.britannica.com/topic/Sumerian-language][Britannica]]
+Sumério é o idioma mais antigo conhecido, ganhando do Egito antigo, possuindo evoluções do Sumério Arcaíco para Eme-gir e Akkadiano. Também possuindo Eme-sel e outras.
+
+ - floresceu durante o 3° milênio AC, sendo substituído pelo Acadiano (Akkadian) por volta de 2000 AC;
+ - se tornou como o latim hoje, um idioma acadêmico para os acadianos;
+ - é um idioma sem parenteses encontrados e sendo a linguagem-mãe de diversas nações importantes na história;
+
+** Estações do Sumério
+- Sumério Arcaico sobriu um período de cerca de 3100 AC, quando os primeiros registros sumérios apareceram, até cerca de 2500 AC. Esse idioma é mau compreendido, ainda hoje, sendo a primeira versão;
+ - O período Antigo, ou Clássico, durou cerca de 2500 AC à 2300 AC e é representado principalmente por registros dos primeiros governantes de Lagash. Os registros são textos comerciais, jurídicos e administativos;
+ - Durante a dinastia sargônica, os acadianos semitas assumiram a hegemonia política da Babilônia, marcando um revés definitivo. Tornando o acadio (Akkadian) o idioma falado pela grande extensão do império;
+ - Por fim, o período da Antiga Babilônia o sumério foi gradualmente desaparecendo, mas continuou sendo escrito até o fim da era da escrita cuneiforme;
+** Redescobrimento
+Por volta da época de Cristo, todo o conhecimento da língua desapareceu junto com o da escrita cuneiforme, e nos séculos seguintes até mesmo o nome sumério desapareceu da memória.
+
+Ao contrário da Assíria, Babilônia e Egito, cujas histórias são amplamente documentadas em fontes bíblias clássicas, não havia nada a ser encontrado em fontes não mesopotâmicas. A decifração da escrita cuneiforme foi alcançada nas primeiras décadas do século 19, três línguas escritas em cuneiforme foram descobertas: ~babilônico semítico~, ~persa indo-europeu~ e o ~elamita~ de afiliação desconhecida. Somente depois que os textos escritos em babilônico se tornaram mais compreendidos, os estudiosos se deram conta da existência de textos em uma língua diferente.
+* Idiomas
+** Eme-ĝir (𒅴𒂠)
