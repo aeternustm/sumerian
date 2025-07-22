@@ -24,6 +24,7 @@ As principais perguntas que me encontro fazendo são dignas de um estudante inic
 > 6. como aprender de forma concretas palavras, em meio a tantas teorias?
 > 7. como documentar corretamente o idioma e formar palavras com base nisso?
 > 8. entre outros;
+
 Temos diversas perguntas para responder, e outras, que são sobre a história do idioma como o seu surgimento ou em que foi influenciado. Todas perguntas que pretendo responder, o que eu conseguir, aos poucos durante meus estudos.
 ## Fontes
 Atualmente estou usando poucas fontes documentadas e estou mais na fase de reconhecimento e pesquisa sobre o que irei estudar, logo documentarei as fontes.
