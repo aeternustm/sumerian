@@ -15,16 +15,23 @@
 - alfabetos
 
 * Sobre
-O sumério é uma língua muito antiga encontrada na mesopotânia, 
-- fonte: [[https://www.britannica.com/topic/Sumerian-language][Britannica]]
-Sumério é o idioma mais antigo conhecido, ganhando do Egito antigo, possuindo evoluções do Sumério Arcaíco para Eme-gir e Akkadiano. Também possuindo Eme-sel e outras.
+=(𒅴𒂠) Eme-gir= é a língua do antigo povo cultural dos sumérios. É uma língua [[https://de.wikipedia.org/wiki/Agglutinierende_Sprache][aglutinante]] (predominantemente sufixa), falada no sul da Mesopotâmia até se tornar um segundo idioma acadêmico, por volta de 2000 a.C, onde foi substituído pelo babilônico (acadiano), onde se manteve até o século 1 a.C.
 
- - floresceu durante o 3° milênio AC, sendo substituído pelo Acadiano (Akkadian) por volta de 2000 AC;
- - se tornou como o latim hoje, um idioma acadêmico para os acadianos;
- - é um idioma sem parenteses encontrados e sendo a linguagem-mãe de diversas nações importantes na história;
+Até então o sumério é a língua mais antiga que possuímos registro, sendo a primeira escrita em 3.300 a.C, cobrindo um período de três mil anos. Até hoje a egiptologia e os estudos do Antigo Oriente discutem se tiveram influência entre os dois idiomas considerados os primordiais.
 
+#+BEGIN_QUOTE
+Por volta de 3200 aC, os padrões esculpidos em balcões de argila foram riscados em pedaços maiores de argila e fornecidos com sinais adicionais. A partir dessa forma arcaica, a escrita cuneiforme da Mesopotâmia desenvolveu-se em plena floração em apenas alguns séculos - assim chamada devido à forma de seus sinais, que foram criados pressionando um estilo angular na argila macia. É preservado em tábuas de argila e outros suportes, como estátuas e edifícios descobertos durante escavações arqueológicas na Mesopotâmia. Os acadianos, babilônios, assírios, eblaítas, elamitas, hititas, hurritas e urartianos adaptaram essa escrita para sua própria língua.
+#+END_QUOTE
+Fonte: [[https://de.wikipedia.org/wiki/Agglutinierende_Sprache][Wikipédia Alemã]]
+
+#+BEGIN_QUOTE
+Originalmente, a escrita cuneiforme suméria foi desenvolvida como uma escrita ideográfica ou logográfica. Cada sinal correspondia a uma palavra, e esses sinais inicialmente tornavam mais fácil ver qual termo se referia. No decorrer de alguns séculos, uma forma de representação silábica também foi desenvolvida de acordo com o princípio rebus, no qual um ou mais valores de sílabas fonéticas (geralmente consistindo em V, CV, VC ou CVC) foram atribuídos a muitos caracteres (V significa uma vogal, C para uma consoante). Desenvolveu-se uma escrita logográfico-fonológica.
+#+END_QUOTE
+Fonte: [[https://de.wikipedia.org/wiki/Agglutinierende_Sprache][Wikipédia Alemã]]
+
+- fonte abaixo: [[https://www.britannica.com/topic/Sumerian-language][Britannica]]
 ** Estações do Sumério
-- Sumério Arcaico sobriu um período de cerca de 3100 AC, quando os primeiros registros sumérios apareceram, até cerca de 2500 AC. Esse idioma é mau compreendido, ainda hoje, sendo a primeira versão;
+ - Sumério Arcaico sobriu um período de cerca de 3100 AC, quando os primeiros registros sumérios apareceram, até cerca de 2500 AC. Esse idioma é mau compreendido, ainda hoje, sendo a primeira versão;
  - O período Antigo, ou Clássico, durou cerca de 2500 AC à 2300 AC e é representado principalmente por registros dos primeiros governantes de Lagash. Os registros são textos comerciais, jurídicos e administativos;
  - Durante a dinastia sargônica, os acadianos semitas assumiram a hegemonia política da Babilônia, marcando um revés definitivo. Tornando o acadio (Akkadian) o idioma falado pela grande extensão do império;
  - Por fim, o período da Antiga Babilônia o sumério foi gradualmente desaparecendo, mas continuou sendo escrito até o fim da era da escrita cuneiforme;
@@ -32,13 +39,23 @@ Sumério é o idioma mais antigo conhecido, ganhando do Egito antigo, possuindo 
 Por volta da época de Cristo, todo o conhecimento da língua desapareceu junto com o da escrita cuneiforme, e nos séculos seguintes até mesmo o nome sumério desapareceu da memória.
 
 Ao contrário da Assíria, Babilônia e Egito, cujas histórias são amplamente documentadas em fontes bíblias clássicas, não havia nada a ser encontrado em fontes não mesopotâmicas. A decifração da escrita cuneiforme foi alcançada nas primeiras décadas do século 19, três línguas escritas em cuneiforme foram descobertas: ~babilônico semítico~, ~persa indo-europeu~ e o ~elamita~ de afiliação desconhecida. Somente depois que os textos escritos em babilônico se tornaram mais compreendidos, os estudiosos se deram conta da existência de textos em uma língua diferente.
+
 ** Fonemas
 Os sons distintivos (fonemas) do sumério consistiam em quatro vogais, a, i, e, u e 16 consoantes, b, d, g, ŋ, h, k, l, m, n, p, r, s, ś, š, t, z. No sumério clássico, o contraste entre as consoantes b, d, g, z e p, t, k, s não era entre consoantes sonoras (com cordas vocais vibrantes) e surdas (sem cordas vocais vibrantes), mas entre consoantes que eram indiferentes quanto à voz e aquelas que eram aspiradas (pronunciadas com um sopro de ar audível acompanhante). As semivogais y e w funcionaram como deslizamentos vocálicos.
 
 No substantivo, gênero não foi expresso. O número plural foi indicado pelos sufixos -me (ou -me + esh), -hia e -ene, ou por reduplicação, como em kur + kur "montanhas". As formas relacionais do substantivo, correspondendo aproximadamente aos casos da declinação latina, incluem: -e para o sujeito (nominativo), -a(k) "de" (genitivo), -ra e -sh(e) "para", "para" (dativo), -a "in" (locativo), -ta "de" (ablativo), -da "com" (comprometetivo).
+
 * Idiomas
-Muitos dialetos e variações do sumério são conhecidos, entre eles o =eme-gir= (idioma oficial) e o eme-sal (usado em composições de hinos).
+Muitos dialetos e variações do sumério são conhecidos, entre eles o =eme-gir= (idioma oficial) e o eme-sal (usado em composições de hinos). 
 ** Eme-ĝir (𒅴𒂠)
+Na virada do século, todo o conhecimento do sumério e do cuneiforme foi perdido. Em contraste com os assírios, babilônicos e egípcios, cujo trabalho é amplamente documentado na historiografia da antiguidade clássica, não há referência à existência dos sumérios nesses relatos. Com a decifração da escrita cuneiforme desde o ínicio do século 19, três línguas foram descobertas inicialmente: [[https://de.wikipedia.org/wiki/Akkadische_Sprache][acadiano semítico]], [[https://de.wikipedia.org/wiki/Persische_Sprache][persa antigo indo-europeu]] e o [[https://de.wikipedia.org/wiki/Elamische_Sprache][elamiano]]. A quarta língua só foi reconhecida mais tarde, entre textos babilônicos, que [[https://de.wikipedia.org/wiki/Jules_Oppert][Jules Oppert]] foi o primeiro a chamar de "sumério" (após o nome em akkadian de šumeru), em 1869.
+
+No entanto, a existência e a nomeclatura da língua foram contestadas por um longo tempo e só puderam ser provadas sem dúvidas 20 anos depois, após a descoberta de textos bilíngues de Nínive e o abundante texto encontrado em [[https://de.wikipedia.org/wiki/Laga%C5%A1][Lagas]] pelos arqueólogos.
+
+- Foi considerado parte de uma [[https://de.wikipedia.org/wiki/Makrofamilie][macrofamília]], a [[https://de.wikipedia.org/wiki/Dene-Kaukasisch][dene-caucasiana]].
+- Curiosidade: chamavam a Mesopotâmia de =kengir=.
 ** Akkadian
 ** Emesal
+Embora um texto lexical posterior liste vários dialetos: além do eme-gir, apenas o dialeto eme-sal permaneceu tangível, e apenas na tradição literária suméria tardia. Essa forma de linguagem era usada principalmente quando os seres femininos tinham uma palavra a dizer nos textos literários, enquanto as partes narrativas e os discursos dos homens eram escritos em eme-gir.
+As principais diferenças em relação à língua normal são uma transformação fonética parcial das raízes das palavras e elementos morfológicos de formação, mas também o uso de palavras que não ocorrem no dialeto principal. Por exemplo, ~mu-ud-na~ em vez de ~nital~, para "marido"; ~mu-tin~ em vez de ~ki-sikil~, para "virgem".
 ** Archaic Sumerian
