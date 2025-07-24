@@ -11,28 +11,26 @@
 - idiomas
   - [[Eme-ĝir (𒅴𒂠)]]
   - [[Akkadian][Akkadian]]
+  - [[Emesal]]
 - povos
 - alfabetos
 
 * Sobre
 =(𒅴𒂠) Eme-gir= é a língua do antigo povo cultural dos sumérios. É uma língua [[https://de.wikipedia.org/wiki/Agglutinierende_Sprache][aglutinante]] (predominantemente sufixa), falada no sul da Mesopotâmia até se tornar um segundo idioma acadêmico, por volta de 2000 a.C, onde foi substituído pelo babilônico (acadiano), onde se manteve até o século 1 a.C.
 
-Até então o sumério é a língua mais antiga que possuímos registro, sendo a primeira escrita em 3.300 a.C, cobrindo um período de três mil anos. Até hoje a egiptologia e os estudos do Antigo Oriente discutem se tiveram influência entre os dois idiomas considerados os primordiais.
-
 #+BEGIN_QUOTE
 Por volta de 3200 aC, os padrões esculpidos em balcões de argila foram riscados em pedaços maiores de argila e fornecidos com sinais adicionais. A partir dessa forma arcaica, a escrita cuneiforme da Mesopotâmia desenvolveu-se em plena floração em apenas alguns séculos - assim chamada devido à forma de seus sinais, que foram criados pressionando um estilo angular na argila macia. É preservado em tábuas de argila e outros suportes, como estátuas e edifícios descobertos durante escavações arqueológicas na Mesopotâmia. Os acadianos, babilônios, assírios, eblaítas, elamitas, hititas, hurritas e urartianos adaptaram essa escrita para sua própria língua.
-#+END_QUOTE
 Fonte: [[https://de.wikipedia.org/wiki/Agglutinierende_Sprache][Wikipédia Alemã]]
 
-#+BEGIN_QUOTE
 Originalmente, a escrita cuneiforme suméria foi desenvolvida como uma escrita ideográfica ou logográfica. Cada sinal correspondia a uma palavra, e esses sinais inicialmente tornavam mais fácil ver qual termo se referia. No decorrer de alguns séculos, uma forma de representação silábica também foi desenvolvida de acordo com o princípio rebus, no qual um ou mais valores de sílabas fonéticas (geralmente consistindo em V, CV, VC ou CVC) foram atribuídos a muitos caracteres (V significa uma vogal, C para uma consoante). Desenvolveu-se uma escrita logográfico-fonológica.
 #+END_QUOTE
 Fonte: [[https://de.wikipedia.org/wiki/Agglutinierende_Sprache][Wikipédia Alemã]]
 
 - fonte abaixo: [[https://www.britannica.com/topic/Sumerian-language][Britannica]]
 ** Estações do Sumério
- - Sumério Arcaico sobriu um período de cerca de 3100 AC, quando os primeiros registros sumérios apareceram, até cerca de 2500 AC. Esse idioma é mau compreendido, ainda hoje, sendo a primeira versão;
- - O período Antigo, ou Clássico, durou cerca de 2500 AC à 2300 AC e é representado principalmente por registros dos primeiros governantes de Lagash. Os registros são textos comerciais, jurídicos e administativos;
+ - Sumério Arcaico sobriu um período de cerca de 3100 à 2500 aC, quando os primeiros registros sumérios apareceram, até cerca de 2500 aC. Esse idioma é mau compreendido, ainda hoje, sendo a primeira versão;
+ - O período Antigo, ou Clássico, durou cerca de 2500 aC à 2300 aC e é representado principalmente por registros dos primeiros governantes de Lagash. Os registros são textos comerciais, jurídicos e administativos;
+ - Neo-Sumerian ocorreu entre 2100 à 2000 a.C e é um período extremamente rico em textos administrativos e documentação;
  - Durante a dinastia sargônica, os acadianos semitas assumiram a hegemonia política da Babilônia, marcando um revés definitivo. Tornando o acadio (Akkadian) o idioma falado pela grande extensão do império;
  - Por fim, o período da Antiga Babilônia o sumério foi gradualmente desaparecendo, mas continuou sendo escrito até o fim da era da escrita cuneiforme;
 ** Redescobrimento
@@ -41,9 +39,9 @@ Por volta da época de Cristo, todo o conhecimento da língua desapareceu junto 
 Ao contrário da Assíria, Babilônia e Egito, cujas histórias são amplamente documentadas em fontes bíblias clássicas, não havia nada a ser encontrado em fontes não mesopotâmicas. A decifração da escrita cuneiforme foi alcançada nas primeiras décadas do século 19, três línguas escritas em cuneiforme foram descobertas: ~babilônico semítico~, ~persa indo-europeu~ e o ~elamita~ de afiliação desconhecida. Somente depois que os textos escritos em babilônico se tornaram mais compreendidos, os estudiosos se deram conta da existência de textos em uma língua diferente.
 
 ** Fonemas
-Os sons distintivos (fonemas) do sumério consistiam em quatro vogais, a, i, e, u e 16 consoantes, b, d, g, ŋ, h, k, l, m, n, p, r, s, ś, š, t, z. No sumério clássico, o contraste entre as consoantes b, d, g, z e p, t, k, s não era entre consoantes sonoras (com cordas vocais vibrantes) e surdas (sem cordas vocais vibrantes), mas entre consoantes que eram indiferentes quanto à voz e aquelas que eram aspiradas (pronunciadas com um sopro de ar audível acompanhante). As semivogais y e w funcionaram como deslizamentos vocálicos.
+Os sons distintivos (fonemas) do sumério consistiam em quatro vogais: ~a~, ~i~, ~e~, ~u~ e 16 consoantes: ~b~, ~d~, ~g~, =ŋ (reconstrução moderna, não conservadora)=, ~h~, ~k~, ~l~, ~m~, ~n~, ~p~, ~r~, ~s~, ~ś~, ~š~, ~t~, ~z~. No sumério clássico, o contraste entre as consoantes ~b~, ~d~, ~g~, ~z~ e ~p~, ~t~, ~k~, ~s~ não era entre consoantes sonoras (com cordas vocais vibrantes) e surdas (sem cordas vocais vibrantes), mas entre consoantes que eram indiferentes quanto à voz e aquelas que eram aspiradas (pronunciadas com um sopro de ar audível acompanhante). As semivogais ~y~ e ~w~ funcionaram como deslizamentos vocálicos.
 
-No substantivo, gênero não foi expresso. O número plural foi indicado pelos sufixos -me (ou -me + esh), -hia e -ene, ou por reduplicação, como em kur + kur "montanhas". As formas relacionais do substantivo, correspondendo aproximadamente aos casos da declinação latina, incluem: -e para o sujeito (nominativo), -a(k) "de" (genitivo), -ra e -sh(e) "para", "para" (dativo), -a "in" (locativo), -ta "de" (ablativo), -da "com" (comprometetivo).
+No substantivo, gênero não foi expresso. O número plural foi indicado pelos sufixos ~-me~ =(ou -me + esh)=, ~-hia~ e ~-ene~, ou por reduplicação, como em ~kur + kur~ "montanhas". As formas relacionais do substantivo, correspondendo aproximadamente aos casos da declinação latina, incluem: ~-e~ para o sujeito (nominativo), ~-a(k)~ "de" (genitivo), ~-ra~ e ~-sh(e)~ "para", "para" (dativo), ~-a~ "in" (locativo), ~-ta~ "de" (ablativo), ~-da~ "com" (comprometetivo).
 
 * Idiomas
 Muitos dialetos e variações do sumério são conhecidos, entre eles o =eme-gir= (idioma oficial) e o eme-sal (usado em composições de hinos). 
@@ -52,7 +50,7 @@ Na virada do século, todo o conhecimento do sumério e do cuneiforme foi perdid
 
 No entanto, a existência e a nomeclatura da língua foram contestadas por um longo tempo e só puderam ser provadas sem dúvidas 20 anos depois, após a descoberta de textos bilíngues de Nínive e o abundante texto encontrado em [[https://de.wikipedia.org/wiki/Laga%C5%A1][Lagas]] pelos arqueólogos.
 
-- Foi considerado parte de uma [[https://de.wikipedia.org/wiki/Makrofamilie][macrofamília]], a [[https://de.wikipedia.org/wiki/Dene-Kaukasisch][dene-caucasiana]].
+- Foi considerado, em teoria _não comprovada_, parte de uma [[https://de.wikipedia.org/wiki/Makrofamilie][macrofamília]], a [[https://de.wikipedia.org/wiki/Dene-Kaukasisch][dene-caucasiana]].
 - Curiosidade: chamavam a Mesopotâmia de =kengir=.
 ** Akkadian
 ** Emesal
