@@ -1,4 +1,5 @@
 # Começando com… o Sumério
+[Fonte](https://isaw.nyu.edu/library/blog/getting-started-with-sumerian)
 
 **Por Patrick J. Burns**  
 22/03/2018
