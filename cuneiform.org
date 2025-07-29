@@ -31,3 +31,9 @@ Nas referências modernas, [[https://books.google.com.br/books/about/Assyrisch_b
 | dù (=du³)             | mùru                    |
 |-----------------------+-------------------------|
 Observe que o sinal diacrítico sempre recai na PRIMEIRA VOGAL da palavra!
+
+Há variações nos sistemas empregados em listas de sinais mais antigas para sinais multissílabos, especialmente em Labat. Nas primeiras edições de sua lista de sinais, que ainda podem ser encontradas em bibliotecas, Labat levou o uso de diacríticos aos números de índice 4-5, deslocando os acentos agudo e grave para a primeira sílaba dos sinais multissílabos:
+- murú (=muru2)
+- murù (=muru3)
+- múru (=muru4)
+- mùru (=muru5)
