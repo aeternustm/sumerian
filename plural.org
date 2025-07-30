@@ -28,6 +28,9 @@ Frases substantivas também podem ser feitas usando dois substantivos um ao lado
 - 1. "A rainha de Ur, uma jovem bela"
 - 2. "O rei de Ur, um homem forte"
 - 3. "O rei e a rainha de Ur, um exemplo"
-Percebe que após apresentar os dois, você entendeu que a terceira frase é para os dois anteriores?
+Percebe que após apresentar os dois, você entendeu que a terceira frase é para os dois anteriores? Segue um exemplo em sumério:
+- 1. ~Nin Urim Kima, Kum Gi~ (𒎏𒋀𒀊𒆠𒈠𒆰𒄀)
+- 2. ~Lugal Urim kima, Lu Anun~ (𒈗𒋀𒀊𒆠𒈠𒇽𒀉𒉣)
+- 3. ~Lugal Nin~ (𒈗𒊩𒆪)
 
-Originalmente não existiam palavras como "para" e "e" em sumério, e só muito mais tarde na vida língua os escribas começaram a escrever a palavra "u", sendo uma palavra emprestada do =Acádio=. Como o foco aqui é os sumérios, iremos omitir também o uso.
+Originalmente não existiam palavras como "para" e "e" em sumério, e só muito mais tarde na vida língua os escribas começaram a escrever a palavra "u", sendo uma palavra emprestada do =Acádio=. Como o foco aqui são os sumérios, iremos omitir também o uso.
