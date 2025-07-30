@@ -34,3 +34,21 @@ Percebe que após apresentar os dois, você entendeu que a terceira frase é par
 - 3. ~Lugal Nin~ (𒈗𒊩𒆪)
 
 Originalmente não existiam palavras como "para" e "e" em sumério, e só muito mais tarde na vida língua os escribas começaram a escrever a palavra "u", sendo uma palavra emprestada do =Acádio=. Como o foco aqui são os sumérios, iremos omitir também o uso.
+
+* Marcadores de Plural
+Em sumério é bem comum usar sufixos ou prefixos para serem incluídos com uma palavra. É feito isso para modificar um significado, ou relacionar com outras sentenças de palavras, algo que também acontece em inglês. Considere duas palavras: "Rei" e "Reis". Se perceber, a palavra "REI" recebeu um afixo ~-s~. Um afixo é uma parte de uma linguagem que não pode ocorrer por si mesmo. Você não verá o "s" em português significando algo por si só.
+
+** ene [𒂊𒉈]
+Em sumério temos o =ene [𒂊𒉈]= para transformar algo em plural. Você vai ver os estudiosos usando ~.~ entre ene e palavras, é apenas uma forma que gostam de fazer e não uma regra real. Sempre que vê um ponto em uma escrita será um __morfema__. Assim fica mais separado e organizado na hora de ler palavras ou traduzir.
+
+Então como exemplo, pegaremos a palavra "rei", como citado acima, e ela ficará assim:
+~lugal.ene~ (𒈗𒂊𒉈) = /rei-s/
+
+Você vai lembrar que em vários idiomas temos palavras "pluralizadas" individualmente em uma frase. Exemplo:
+~Irmãs e irmãos~ onde cada um recebeu seu afixo. Porém, em sumério, a gente pega tudo e já joga todos no plural de uma vez. Segue o exemplo:
+~[nin šeš].ene [𒊩𒆪𒋀𒂊𒉈]~
+Perceba que ao invés de usar um marcador de plural para cada, a gente tornou toda a frase em plural de uma vez.
+*** Uma Convenção
+A frase acima apresentou as palavras dentro de "[]", isso não é um erro de digitação. Mas, se eu usar ~nin sesene~ (nin šeš.ene) você poderia também entender como "irmã e irmãos". Para evitar isso, os estudiosos criaram a convenção de usar "[]" quando for usar um marcador para que seja indicado que todas essas palavras dentro serão afetadas.
+
+Vale lembrar que isso é só __uma das formas__ de tornar uma frase plural. Porém, por enquanto, veremos essa.
