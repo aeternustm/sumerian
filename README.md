@@ -1,6 +1,8 @@
 # Apresentação
 O idioma sumério é o idioma mais antigo que conhecemos no planeta, sendo a origem direta anterior a muitas civilizações como a grande Babilônia. Compreender esse idioma é se aproximar das origens de nossa história e civilização descobrindo a cultura, costumes e suas histórias através de um idioma e escrita do fim do terceiro milênio.
 
+**Aviso importante:** as anotações estão no formato Org-mode (sou usuário de Emacs), isso pode conter erros e problemas no markdown.
+
 ## O que veremos
 Sobre o primeiro idioma registrado na nossa história, e o seu sistema de escrita. Veremos tudo que eu conseguir reunir para a escrita Cuneiforme, o idioma sumério (e seus dialetos eme-gir e eme-sal), uma breve introdução em sua evolução acadiana e um pouco sobre sua civilização. Após entender os conceitos e fundamentos do idioma, irei iniciar uma tradução e pesquisa sobre materiais antigos.
 
