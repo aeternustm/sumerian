@@ -51,4 +51,4 @@ Perceba que ao invés de usar um marcador de plural para cada, a gente tornou to
 *** Uma Convenção
 A frase acima apresentou as palavras dentro de "[]", isso não é um erro de digitação. Mas, se eu usar ~nin sesene~ (nin šeš.ene) você poderia também entender como "irmã e irmãos". Para evitar isso, os estudiosos criaram a convenção de usar "[]" quando for usar um marcador para que seja indicado que todas essas palavras dentro serão afetadas.
 
-Vale lembrar que isso é só __uma das formas__ de tornar uma frase plural. Porém, por enquanto, veremos essa.
+Vale lembrar que isso é só _uma das formas_ de tornar uma frase plural. Porém, por enquanto, veremos essa.
