@@ -49,7 +49,7 @@ Os sufixos possessivos têm uma peculiaridade quando são anexados a algo no cas
     ~.ĝa [𒂷]~           - meu (1º pessoa, gen & loc)
     ~.za [𒍝]~            - seus (2º pessoa, gen & loc)
     ~.ana [𒀀𒈾]~         - deles (terceira pessoa "sent", gen & loc)
-    ~.bi.a [𒁉𒀀]~ or ~ba~ - isso (3º pessoa "non-sent", gen & loc)
+    ~.bi.a [𒁉𒀀]~ or ~ba~ - essa/isso (3º pessoa "non-sent", gen & loc)
 
 - novamente, sempre aviso que em inglês o sentido é melhor.
    #+BEGIN_EXAMPLE
@@ -67,3 +67,25 @@ Uma pequena extensão de vocabulário para o futuro:
 - ~e [𒂍]~        = Casa, Templo
 - ~e.gal [𒂍𒃲]~ = Palácio
 
+** Exemplos Práticos
+|-------------+------------------------|
+| Frase       | Tradução               |
+|-------------+------------------------|
+| til.zu      | Sua vida               |
+| bad.bi      | Essa parede            |
+| nin.ani     | Sua rainha             |
+| bad Uruk.ak | As paredes de Uruk     |
+| dumu.ani.ir | Para seu filho         |
+| lugal.gu    | Meu rei                |
+| e.ani       | A casa dele            |
+| nin e.zu.ak | A rainha do seu templo |
+|-------------+------------------------|
+As mesmas frases em cuneiforme:
+1. ~𒋾𒍪~          - tilzu
+2. ~𒂦𒁉~         - badbi
+3. ~𒊩𒆪𒀀𒉌~         - ninani
+4. ~𒂦𒌷𒀔𒀝~     - bad Urukak
+5. ~𒌉𒀀𒉌𒅕~       - dumuaniir
+6. ~𒈗𒈬~         - lugalgu
+7. ~𒂍𒀀𒉌~          - eani
+8. ~𒊩𒆪𒂍𒅕𒀝~      - nin ezuak

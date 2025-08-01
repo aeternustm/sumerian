@@ -52,3 +52,17 @@ Perceba que ao invés de usar um marcador de plural para cada, a gente tornou to
 A frase acima apresentou as palavras dentro de "[]", isso não é um erro de digitação. Mas, se eu usar ~nin sesene~ (nin šeš.ene) você poderia também entender como "irmã e irmãos". Para evitar isso, os estudiosos criaram a convenção de usar "[]" quando for usar um marcador para que seja indicado que todas essas palavras dentro serão afetadas.
 
 Vale lembrar que isso é só _uma das formas_ de tornar uma frase plural. Porém, por enquanto, veremos essa.
+
+** Exemplos
+- ~ama [𒂼]~ - mother
+- ~šeš nin [𒋀𒊩𒆪]~ - irmão e irmã
+- ~lugal [𒈗]~ - rei
+- ~šeš [𒋀]~ - irmão
+- ~nin [𒊩𒆪]~ rainha/irmã
+- ~ama dumu [𒂼𒌉]~ - mãe e filho
+- ~nin.ene [𒊩𒆪𒂊𒉈]~ - rainhas
+- ~lugal.ene [𒈗𒂊𒉈]~ - reis
+- ~nin šeš.ene [𒊩𒆪𒋀𒂊𒉈]~ - irmã e irmãos
+- ~[nin šeš].ene [𒊩𒆪𒋀𒂊𒉈]~ - irmãs e irmãos
+- ~lugal nin [𒈗𒊩𒆪]~ - rei e rainha
+- ~[lugal nin].ene [𒈗𒊩𒆪𒂊𒉈]~ - reis e rainhas
