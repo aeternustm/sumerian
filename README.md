@@ -1,35 +1,17 @@
-# Apresentação
-O idioma sumério é o idioma mais antigo que conhecemos no planeta, sendo a origem direta anterior a muitas civilizações como a grande Babilônia. Compreender esse idioma é se aproximar das origens de nossa história e civilização descobrindo a cultura, costumes e suas histórias através de um idioma e escrita do fim do terceiro milênio.
+# Sumérios
+## Introdução
+Os Sumérios são um povo que viveu no sul da Mesopotâmia. Infelizmente, os acadêmicos e historiadores estão mais preocupados com civilizações como Grécia e Roma, e não me entenda errado, essas civilizações são deslumbrantes e magníficas. O problema é que, quando fui estudar seu sistema de escrita e seu idioma, me deparei com uma dificuldade muito grande relacionada aos conteúdos disponíveis e discussões desse tema; já que a grande multidão da academia está em temas considerados, na minha visão, como temas normais na nossa cultura moderna em jogos e mídias de entretenimento.
 
-**Aviso importante:** as anotações estão no formato Org-mode (sou usuário de Emacs), isso pode conter erros e problemas no markdown.
+E você pode se perguntar, vendo o texto acima, que talvez sumérios não sejam tão importantes quanto os romanos, nórdicos, egípcios, e entre outros. Mas a grande reviravolta é que esse povo é tão importante, e em alguns temas, foram vitais e até ligados a essas outras culturas. Já ouviu falar sobre a lendária cidade da Babilônia citada na Bíblia, contos e conquista até por Alexandre, o Grande? Usou o ditado “olho por olho, dente por dente”? Babilônia foi uma das herdeiras do legado sumério, e sua civilização está intimamente ligada à cultura, e em vários casos, até no idioma dos sumérios. Eles criaram o primeiro código de leis conhecido e o modelo de uma cidade-estado.
 
-## O que veremos
-Sobre o primeiro idioma registrado na nossa história, e o seu sistema de escrita. Veremos tudo que eu conseguir reunir para a escrita Cuneiforme, o idioma sumério (e seus dialetos eme-gir e eme-sal), uma breve introdução em sua evolução acadiana e um pouco sobre sua civilização. Após entender os conceitos e fundamentos do idioma, irei iniciar uma tradução e pesquisa sobre materiais antigos.
-
-Atualmente nosso conteúdo está na fase inicial, onde estou anotando informações iniciais e me encaixando em fontes e conteúdos. Se algo estiver errado, sinta-se livre em me corrigir ou solicitar uma atualização; pois sou um mero estudante.
-## Tópicos
-Atualmente os tópicos não estão listados de uma forma uniforme, já que foi citado acima o quanto estou iniciando o projeto. Então vou relatar apenas o que eu busco, como objetivo, efetuar atualmente:
-> 1. encontrar boas fontes de estudo e informações;
-> 2. aprender e documentar a escrita cuneiforme;
-> 3. aprender e documentar o idioma sumério (eme-gir 15);
-> 4. desenvolver um dicionário virtual com base de dados treinados por rede neural;
-> 5. traduzir materiais antigos;
-
-Atualmente meus objetivos são mais rascunhos de algo, que realmente um plano concreto. 
-## Perguntas
-As principais perguntas que me encontro fazendo são dignas de um estudante iniciante em um idioma, e acho que em material histórico geral:
-> 1. quais são as melhores fontes para pesquisar?
-> 2. X informação é verídica? Ou Y? Qual autor está mais correto?
-> 3. o que sabemos, de fato, desse idioma?
-> 4. quais são os estudos desenvolvidos em cima?
-> 5. o que temos de material gratuito?
-> 6. como aprender de forma concretas palavras, em meio a tantas teorias?
-> 7. como documentar corretamente o idioma e formar palavras com base nisso?
-> 8. entre outros;
-
-Temos diversas perguntas para responder, e outras, que são sobre a história do idioma como o seu surgimento ou em que foi influenciado. Todas perguntas que pretendo responder, o que eu conseguir, aos poucos durante meus estudos.
-## Fontes
-Atualmente estou usando poucas fontes documentadas e estou mais na fase de reconhecimento e pesquisa sobre o que irei estudar, logo documentarei as fontes.
-
-# Aeternus
-Todos os documentos e registros importados aqui são públicos, porém, são de origem de Aeternus™️ e seus membros. Não aceitamos recrutamento e nem fontes externas que não sejam oficiais por pesquisadores sérios e fontes capazes.
+É, várias vezes, considerado o idioma escrito mais antigo que conhecemos por estudiosos. Mesmo que em discussão, muitos aceitam o cuneiforme e sumério mais antigo que o sistema do Egito Antigo e em uma época anterior até ao próprio ferro como conhecemos. Os sumérios criaram ciência, astronomia (achou que foi a Grécia, né?), matemática (base sexagesimal), e estabeleceram cidades-estado (Ur, Uruk, Lagash) sendo a matriz da civilização urbana ocidental. São uma civilização extremamente importante em nossa história.
+## O que será abordado
+O foco aqui será, inteiramente, o cuneiforme e o idioma sumério clássico. Veremos sobre os dialetos Sumério Arcaico e até idiomas influenciados pelos sumérios como o Akkadu, mas serão somente abordagens.Apresentarei o idioma com o conteúdo que eu encontrar e vou ter que assumir já, de imediato, que muitas informações podem estar imprecisas, já que sou somente um estudante, e não um historiador. **Vou sempre atualizar os erros conforme eu perceber e aprender**, então sinta-se livre para corrigir informações imprecisas. **Sempre pesquise o que eu afirmar**.
+> - Escrita Cuneiforme
+> - Idioma Sumério Clássico
+> - História breve
+> - Transliteração e tradução de pedras antigas
+> - Regras gramaticais conhecidas
+> - Convenções acadêmicas
+### Fontes e Conteúdos
+Não vou divulgar e anexar nenhum tipo de pirataria ou conteúdos que ferem as leis de direitos autorais. Todos os conteúdos citados aqui serão sites oficiais, e em caso de recomendações de livros e artigos, irei mencionar o nome e/ou link da Amazon e Google. Não tenho interesse em publicar arquivos em si, além de markdown e Org-Mode.
