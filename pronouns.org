@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9cd820a0-fb85-42fc-b40f-bcbb609ec95a
 :END:
-#+title: Sumerian: pronouns
+#+title: Sumerian: pronouns notas
 #+filetags: :sumerian:emegir:language:history:
 #+author: Rahvax
 #+date: [2025-07-31 Thu 15:40]

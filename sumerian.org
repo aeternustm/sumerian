@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0e05ea28-b6ac-4de0-8cc8-2487d91e97d4
 :END:
-#+title: Sumerian: sumerian
+#+title: Sumerian: sumerian notes
 #+filetags: :sumerian:historia:idioma:
 #+author: Rahvax
 #+date: [2025-07-15 Tue 14:17]

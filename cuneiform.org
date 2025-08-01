@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b32e83ae-d63c-4d02-85a8-d6fea4598334
 :END:
-#+title: Sumerian: cuneiform
+#+title: Sumerian: cuneiform notes
 #+filetags: :sumerian:
 #+author: Rahvax
 #+date: [2025-07-29 Tue 10:48]

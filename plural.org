@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1bb74144-7ebc-4e8a-abca-aa4f4995c434
 :END:
-#+title: Sumerian: plural
+#+title: Sumerian: plural notas
 #+filetags: :sumerian:
 #+author: Rahvax
 #+date: [2025-07-30 Wed 13:31]
