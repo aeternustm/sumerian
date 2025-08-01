@@ -11,4 +11,59 @@
 * Os Possessivos
 Diferente do costume gramático do nosso idioma, e de outros idiomas comuns como o inglês, os sumérios utilizam sufixos para indicar se algo é meu ou seu; parecido com o que acontece em [[id:1bb74144-7ebc-4e8a-abca-aa4f4995c434][Sumerian: plural]] que vemos o uso do sufixo =.ene= para indicar pluralidade. Usando um exemplo anterior, rainha [ =nin 𒎏= ], para dizer "sua rainha" a gente escreveria como =nin.ani= [𒎏𒀀𒉌].
 
-É comum que em idiomas antigos que palavras fiquem à esquerda e em sua direita
+É comum que em idiomas antigos que palavras fiquem à esquerda e em sua direita fiquem informações sobre persona, número, genêro e casos em geral. Em sumério, substituímos o gênero por animação e inanimação.
+Segue o exemplo:
+
+Sufixo  |  Cuneiforme  |  Tradução  |  VTB
+~.ĝu~ 	         =𒈬= 	       my 	1st sg
+~.zu~ 	         =𒍪= 	     your (s) 	2nd sg
+~.ani~ 	         =𒀀𒉌= 	     his/her 	3rd sg
+~.bi~          	 =𒁉= 	       its 	3rd sg inanimate
+~.me~ 	          =𒈨= 	       our 	1st pl animate
+~.zu.ne.ne~ 	=𒍪𒉈𒉈=      your (p) 	2nd pl
+~.a.ne.ne~ 	=𒀀𒉈𒉈=       their 	3rd pl
+
+- não foi usado tabela por erros de formatação do Emacs com os cuneiformes;
+- foi usado inglês por combinar melhor com a ideia da gramática;
+
+*** Exemplos
+~ama.gu~      =[𒂼𒈬]=        = /my mother/
+~lugal.ani~   =[𒈗𒀀𒉌]=     = his king ou her king
+~nin.a.ne.ne~ =[𒊩𒆪𒀀𒉈𒉈]=   = their queen
+Acredito que seja bem fácil, tanto quanto a fonte, de se entender. Se torna até mais fácil que nosso idioma.
+
+** Comentários nos Afixos
+A primeira coisa marcante e estranha em estudar sumério é perceber letras como esse ~ĝ~. Você deve se perguntar qual o intuito disso, como eu me perguntei muitas vezes - o real objetivo disso é apenas representar o som e distinguir de um ~/g/~ normal. Estudiosos presumem, que nesse ponto, o som final é nasal como visto no inglês ao pronunciar a palavra ~king~. Isso geralmente é posto como o som ~/ŋ/~.  Porém, é importante lembrar que não sabemos os sons, e por isso, sinta-se livre para realizar essa pronuncia.
+** Tratamento de Plurais
+É algo bem marcante em idiomas aglutinantes o uso de sufixos para distinguir coisas, ir colocando sufixos até modificar para o objetivo que você queria. Modificar uma palavra base com vários sufixos.
+
+É bem comum que alguns sufixos plurais se pareçam muito com singulares. Como, em um exemplo, a palavra =bad.a.ne.ne= ~[𒂦𒀀𒉈𒉈]~. A palavra usada é apenas =bad [𒂦]=, que significa "parede". E nós colocamos o possessivo ~.ani~ fazendo ~sua parede~, e finalmente, colocamos ~.ene~, fazendo ~parede deles~ (note que o som em ~.an[i]~ é trocado pela primeira em ~.[e]ne~). Ao se acostumar, é bem simples. Então na prática, colocamos primeiro um posessivo singular e, logo após, colocamos um sufixo de pluralidade que trocou a inicial do sufixo para a dela.
+
+Em caso de confusão para o português, recomendo a tradução original:
+#+BEGIN_EXAMPLE
+As an example, let's look at the Sumerian word bad.a.ne.ne [𒂦𒀀𒉈𒉈]. Our base word here is bad [𒂦], meaning wall, and we have our possessive affix .ani making his/her wall, and finally we tack on .ene, making their wall (noting that the final i sound in .ani gets swallowed up by the leading e in .ene). So to analyze a Sumerian word, you just break down the affix. Couldn't be simpler!
+#+END_EXAMPLE
+
+*** Observação
+Os sufixos possessivos têm uma peculiaridade quando são anexados a algo no caso genitivo ou locativo. A saber, os afixos singulares terminam com um som ~/a/~ no final:
+    ~.ĝa [𒂷]~           - meu (1º pessoa, gen & loc)
+    ~.za [𒍝]~            - seus (2º pessoa, gen & loc)
+    ~.ana [𒀀𒈾]~         - deles (terceira pessoa "sent", gen & loc)
+    ~.bi.a [𒁉𒀀]~ or ~ba~ - isso (3º pessoa "non-sent", gen & loc)
+
+- novamente, sempre aviso que em inglês o sentido é melhor.
+   #+BEGIN_EXAMPLE
+    .ĝa [𒂷]            - my (1sg sent., gen & loc)
+    .za [𒍝]             - your (s) (2sg sent., gen & loc)
+    .ana [𒀀𒈾]          - his/her (3sg sent., gen & loc)
+    .bi.a [𒁉𒀀] or .ba - its (3sg non-sent., gen & loc)
+    #+END_EXAMPLE
+
+*** Extensão de Vocabulário
+Uma pequena extensão de vocabulário para o futuro:
+- ~til [𒋾]~     = Vida
+- ~bad [𒂦]~     = parede (n)
+- ~Uruk [𒌷𒀔]~  = Uruk, em Akkadian (em Sumério ="Unugki" [𒀕𒆠] or "Unug" [𒀕]=)
+- ~e [𒂍]~        = Casa, Templo
+- ~e.gal [𒂍𒃲]~ = Palácio
+
